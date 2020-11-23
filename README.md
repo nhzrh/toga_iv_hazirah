@@ -13,6 +13,11 @@ https://2826536e-d00d-4575-b35e-5562354bf840.mock.pstmn.io/get
 5. Please refer to the video attached for reference
 6. Not necessary to follow 100% of the UI but make sure the app is presentable.
 
+### To Run the app
+- Android Studio -> Open an existing Android Studio project -> Navigate to the project folder and open build.gradle file
+- Click on the run button(play) in the Android Studio https://drive.google.com/file/d/1GGGC8a8UTVlxLTfZFbRBVzhSylopBMMJ/view
+- We need to have a device connected through data cable or an Android emulator to run the app
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
